@@ -1,4 +1,4 @@
-# Project 3 - *Triviae*
+# Project 3 - *Trivia*
 
 Submitted by: **Ashley Hendrata**
 
@@ -27,13 +27,14 @@ The following **additional** features will be implemented:
 - [ ] Theme selection
 - [ ] Randomization of questions
 
-## Video Walkthrough
+## Video Walkthrough: The game can be played with any device size!
 
-
+iPad:
 
 https://github.com/ashhendrata/Trivia-Pt1/assets/134671782/7308cfac-cd4c-47d3-9ae7-9e77310acaf3
 
 
+iPhone 15:
 
 https://github.com/ashhendrata/Trivia-Pt1/assets/134671782/d04a8371-321f-4e48-ac40-70c07a79a918
 
